@@ -8,3 +8,7 @@ ctrl + x to exit
 vi to edit or view
 cat to view
 nano to create and edit
+
+![image](https://user-images.githubusercontent.com/80549753/221780413-7e4b1577-b785-437f-acc7-9bfd2d98b39a.png)
+![image](https://user-images.githubusercontent.com/80549753/221780689-a1535f1b-a7b3-43bc-bf62-dfdf8b2ba9b3.png)
+![image](https://user-images.githubusercontent.com/80549753/221781653-2ddbfb46-ce02-40a9-9c8f-002ad6166a7c.png)
